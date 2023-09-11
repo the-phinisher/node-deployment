@@ -1,0 +1,15 @@
+{
+  "name": "node-deployment",
+  "version": "1.0.0",
+  "description": "Trying to get a simple node app to be deployed",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
